@@ -112,3 +112,5 @@ ENV/
 datasets/
 
 .ipynb_checkpoints/
+
+*.new
